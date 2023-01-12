@@ -12,7 +12,7 @@
 - 😄 <samp>Pronouns: he/him
 - 💞️ <samp>I’m looking to collaborate on HTML,CSS front end projects
 - 🌱 <samp>I’m currently learning React
-  
+- 🖥️ <samp>Check my portfolio [bit.ly/Chaiitanyaa](https://studentweb.uvic.ca/~chaiitanyaachopraa/)
 
 <!---
 Chaiitanyaa/Chaiitanyaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
