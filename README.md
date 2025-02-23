@@ -11,7 +11,7 @@
 - 📫 <samp>Contact me on: chchopra12@gmail.com
 - 😄 <samp>Pronouns: he/him
 - 💞️ <samp>I’m looking to collaborate on HTML,CSS front end projects
-- 🌱 <samp>I’m currently learning React
+- 🌱 <samp>I’m currently learning next framework
 - 🖥️ <samp>Check my [portfolio](https://chaiitanyaa.com/) here
 
 <!---
