@@ -1,48 +1,53 @@
-# Hey, I’m Chaitanyaa Chopraa
-
-I'm a Computer Science student at the University of Victoria, BC, with a passion for building technology that’s both smart and user-friendly. I’m especially drawn to artificial intelligence, machine learning, and frontend design. Whether it’s developing clean interfaces or solving complex technical challenges, I enjoy diving deep and constantly learning.
-
----
-
-## What I Do
-
-- **Software Development:** Experienced with Python, C++, Java, and other languages.  
-- **Web Development:** Skilled in React, Next.js, and Tailwind CSS, with a focus on clean and responsive UI design.  
-- **AI & ML:** Actively learning and experimenting with modern machine learning models and concepts.  
-- **Project Management:** Practical experience with QA/QC processes and managing software workflows.
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7D7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Chaitanyaa+Chopraa!;Computer+Science+Student+%40+UVic;AI+%26+ML+Enthusiast;Frontend+Lover;Always+Learning+%26+Building)](https://git.io/typing-svg)
 
 ---
 
-## Currently Learning
-
-- Full-stack development using **Next.js**  
-- Advanced **AI and machine learning** concepts  
-- **Docker and containerization** to build scalable systems
+## 🚀 About Me
+I’m a **Computer Science student at the University of Victoria, BC**, passionate about creating technology that’s **smart, user-friendly, and a little bit fun**.  
+I work across the stack but thrive in **AI/ML** and **frontend design** — clean UIs + powerful logic is my sweet spot.  
 
 ---
 
-## A Few Fun Facts
-
-- I’m a big-time foodie and have a serious sweet tooth.  
-- I'm exploring digital arts and improving my UI/UX design skills.  
-- I regularly participate in market research and trading simulations to sharpen my analytical thinking.
-
----
-
-## Tech Stack
-
-- **Languages:** Python, C, C++, JavaScript, Java, HTML/CSS  
-- **Frontend:** React, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Express  
-- **Databases:** MongoDB, PostgreSQL  
-- **Tools:** Docker, Git, Procore  
-- **Currently Learning:** Next.js, advanced AI/ML techniques
+## 🛠 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgres,docker,git" />
+</p>
 
 ---
 
-## Let’s Connect
+## 📊 GitHub Stats
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaiitanyaa&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaiitanyaa&layout=compact&theme=tokyonight) |
+| --- | --- |
 
-I’m always open to new opportunities, collaborations, and great conversations about tech and innovation.  
-**Email:** [chchopra12@gmail.com](mailto:chchopra12@gmail.com)  
-**Portfolio:** www.chaiitanyaa.com
-**Pronouns:** he/him
+---
+
+## 📈 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chaiitanyaa&theme=react-dark&hide_border=true)
+
+---
+
+## 🌟 Fun Facts
+- 🍰 Certified foodie with a **serious sweet tooth**  
+- 🎨 Exploring **digital arts** to level up UI/UX design  
+- 📈 Love doing **market research & trading simulations** just for fun  
+
+---
+
+## 📌 Featured Projects
+- [🚀 Day Trading System](https://github.com/yourrepo) — Dockerized full-stack trading app with custom FIFO matching engine  
+- [🎵 RhythmBeats](https://github.com/yourrepo) — Arduino + AI-powered physical music composition tool  
+- [✍️ SceneCraft](https://github.com/yourrepo) — Tangible AI storytelling tool for young writers  
+
+---
+
+## 📬 Let’s Connect  
+[![Portfolio](https://img.shields.io/badge/Portfolio-www.chaiitanyaa.com-0a66c2?style=for-the-badge&logo=google-chrome)](https://www.chaiitanyaa.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chaitanyaa%20Chopraa-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chaitanyaa-chopraa)  
+[![Email](https://img.shields.io/badge/Email-chchopra12%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:chchopra12@gmail.com)  
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=chaiitanyaa&color=blue&style=flat-square)
+
+> _“Good code solves problems. Great code makes life easier.”_
