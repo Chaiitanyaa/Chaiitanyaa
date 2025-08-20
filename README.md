@@ -56,10 +56,6 @@ I work across the stack, but thrive where **AI/ML** meets **clean, accessible fr
 - **✍️ SceneCraft** — Tangible AI storytelling tool for young writers  
 - **🌐 Infinity Outdoor** — React + Vite + Tailwind site for an outdoor media company
 
-> Swap in real repo links when ready:
-> - `[Day Trading System](https://github.com/your-username/your-repo)`
-> - `[RhythmBeats](https://github.com/your-username/your-repo)` etc.
-
 ---
 
 ### 📊 GitHub Stats
