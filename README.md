@@ -10,7 +10,7 @@
 
 <p align="center">
   <b>Software Developer | Full-Stack • Systems • AI</b><br>
-  Computer Science @ University of Victoria (Graduating 2026)
+  Computer Science From University of Victoria
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 ## 🚀 About Me
 
-I’m a Computer Science student at the **University of Victoria** graduating in **2026**, focused on building **scalable software and real-world systems**.
+I’m a Computer Science student at the **University of Victoria** graduated in **December, 2025**, focused on building **scalable software and real-world systems**.
 
 I enjoy working across the stack — from backend logic and system design to clean, intuitive user interfaces.  
 My recent work includes **distributed-style systems, Dockerized applications, AI-powered tools, and interactive experiences**.
@@ -43,11 +43,16 @@ I’m currently seeking **Software Developer / Full-Stack / Backend / New Grad o
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgres,docker,git,linux" />
-</p>
+**Frontend**  
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js)
+
+**Backend**  
+![Backend](https://skillicons.dev/icons?i=nodejs,express,python,java,cpp)
+
+**Database & DevOps**  
+![DevOps](https://skillicons.dev/icons?i=postgres,mongodb,docker,git,linux)
 
 **Core Focus**
 - Full-Stack Development (React, Node.js)
@@ -93,15 +98,14 @@ Production-ready business website:
 
 ---
 
-## 📊 GitHub Analytics
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaiitanyaa&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaiitanyaa&layout=compact&theme=tokyonight) |
-| --- | --- |
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chaiitanyaa&theme=react-dark&hide_border=true)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chaiitanyaa&theme=onestar&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaiitanyaa&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chaiitanyaa&theme=tokyonight" />
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaiitanyaa&theme=tokyonight" />
+  </p>
 </p>
 
 ---
